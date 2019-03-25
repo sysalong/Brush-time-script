@@ -1,7 +1,7 @@
 # Brush-time-script
 网校刷课时程序，网络成人大学网校刷在线课时程序。
 
-建议您直接下载打包好的程序，地址：https://github.com/sysalong/Brush-time-script/releases/download/v3.25/Brush_time.rar
+建议您直接下载打包好的程序，地址：https://github.com/sysalong/Brush-time-script/releases/download/v3.25/wangxiaoshuakeshi.zip
 
 程序打开初始化时会略微有些慢。
 程序应尽量放在英文目录下。示例： D:\wangxiaokeshi
