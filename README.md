@@ -1,5 +1,5 @@
 # Brush-time-script
-网校刷课时程序，网络成人大学网校刷在线课时程序。
+网校刷课时程序，网络成人大学网校刷在线课时程序。【适用于EduSoho网校程序】,
 
 建议您直接下载打包好的程序，地址：https://github.com/sysalong/Brush-time-script/releases/download/v3.25/wangxiaoshuakeshi.zip
 
