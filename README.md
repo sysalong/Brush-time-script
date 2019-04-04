@@ -22,11 +22,14 @@
 
 如果还有什么BUG，可以去我博客或者这里，及时反馈吧。
 
+---------------------------------------------------------------------------------
 
 如果程序报错，提示缺少api-ms-win-crt-process-l1-1-0.dll 等问题，你需要安装以下两个微软补丁：
 https://support.microsoft.com/en-us/help/3118401/update-for-universal-c-runtime-in-windows
 https://support.microsoft.com/en-us/help/2999226/update-for-universal-c-runtime-in-windows
 找到自己系统对应的下载安装后再运行即可。
+
+---------------------------------------------------------------------------------
 
 安装上面两个补丁有个先决条件：
 要安装此更新，您必须在Windows 8.1或Windows Server 2012 R2中安装Windows RT 8.1，Windows 8.1和Windows Server 2012 R2（2919355）① 的2014年4月更新汇总。或者，安装适用于Windows 7或Windows Server 2008 R2的Service Pack 1②。或者，安装适用于Windows Vista和Windows Server 2008的Service Pack 2。
