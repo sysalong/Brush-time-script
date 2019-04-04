@@ -23,4 +23,10 @@
 如果还有什么BUG，可以去我博客或者这里，及时反馈吧。
 
 
+如果程序报错，提示缺少api-ms-win-crt-process-l1-1-0.dll 等问题，你需要安装以下两个微软补丁：
+https://support.microsoft.com/en-us/help/3118401/update-for-universal-c-runtime-in-windows
+https://support.microsoft.com/en-us/help/2999226/update-for-universal-c-runtime-in-windows
+找到自己系统对应的下载安装后再运行即可。
+
+
 作者：龍哥    博客：https://woj.app
