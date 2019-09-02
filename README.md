@@ -3,7 +3,7 @@
 
 程序的详细说明参考：https://woj.app/4997.html
 
-建议您直接下载打包好的程序，地址：https://github.com/sysalong/Brush-time-script/releases/download/v3.25/wangxiaoshuakeshi.zip
+建议您直接下载打包好的程序，地址：https://github.com/sysalong/Brush-time-script/archive/V3.36.zip
 
 
 程序打开初始化时会略微有些慢。
